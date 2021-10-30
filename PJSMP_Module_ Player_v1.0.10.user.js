@@ -10,6 +10,7 @@
 // @include      *://mppclone.com
 // @grant        none
 // ==/UserScript==
+//some edits for better quality not much tho
 window.PJSMP_mp__version = "1.0.10";
 window.PJSMP_mp__moduleName = "ＰＪＳＭＰ (RE) - module: player";
 window.PJSMP_mp__moduleFullName = "Pure JavaScript Midi Player - module: player";
